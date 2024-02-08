@@ -1,6 +1,7 @@
 # Smart ATS - Resume Evaluation Tool
 
-Smart ATS is a web application built with Streamlit that leverages AI technology to evaluate resumes based on a provided job description. It assists job seekers in improving their resumes by analyzing how well they match the job requirements and suggesting areas for improvement.
+Smart ATS is a web application built with Streamlit that harnesses the power of cutting-edge Language Model technology, specifically the Large Language Model (LLM), to evaluate resumes against a provided job description. It empowers job seekers by meticulously analyzing their resumes, determining their alignment with the job requirements, and offering valuable suggestions for enhancement.
+
 
 ## Features
 
